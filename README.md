@@ -1,2 +1,0 @@
-# Salma Mandi
-Hello World!
